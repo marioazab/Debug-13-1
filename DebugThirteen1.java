@@ -11,7 +11,7 @@ import java.io.IOException;
         public static void main(String[] args)
         {
             Path file1 =
-                    Path.get("/root/sandbox/DebugDataOne1");
+                    Path.get("/root/sandbox/DebugDataOne1.txt");
             Path file2 =
                     Path.get("/root/sandbox/DebugDataOne2.txt");
             try
